@@ -7,8 +7,11 @@ This project contains two python scripts. Both are used to create and train a mo
 PIP install the following packages to get the scripts running
 
 pip install --upgrade tensorflow
+
 pip install numpy
+
 pip install matplotlib
+
 pip install opencv-python
 
 Additionally, download and save the following sign language dataset
